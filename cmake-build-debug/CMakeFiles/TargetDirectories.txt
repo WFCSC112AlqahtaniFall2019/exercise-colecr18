@@ -1,0 +1,3 @@
+/Users/clairecoleman/CLionProjects/exercise-colecr18/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/clairecoleman/CLionProjects/exercise-colecr18/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/clairecoleman/CLionProjects/exercise-colecr18/cmake-build-debug/CMakeFiles/VectorReverse.dir
